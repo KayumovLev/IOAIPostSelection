@@ -1,6 +1,6 @@
 # Analysis of selection tasks for IOAI
 
-## Day 1≈
+## Day 1
 
 Tasks:
 1. 
